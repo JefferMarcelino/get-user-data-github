@@ -1,7 +1,5 @@
-from time import sleep
 from selenium.webdriver.common.by import By
 from selenium import webdriver
-import pandas as pd
 from bs4 import BeautifulSoup
 import json
 
