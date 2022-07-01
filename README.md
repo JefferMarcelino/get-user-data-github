@@ -48,4 +48,8 @@ With this script you can write the Github username, and the script will create a
 
 <br>
 <br>
-To use you need to install the requirements and just run.
+To use you need to install the requirements and just run. Do not forget to install the correct webdrive version for you!!! 
+
+
+
+Made by ♥ :wave: [Jeffer Marcelino!](https://github.com/JefferMarcelino/)
